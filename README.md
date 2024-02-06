@@ -17,4 +17,4 @@ Provide an introduction to your project.
 
 ## ScreencastDetails
 - **Screencast Software:** [OBS Studio v30.0.2]
-- **IDE Used:** [IDE Name and Version]
+- **IDE Used:** [Visual Studio Code]
