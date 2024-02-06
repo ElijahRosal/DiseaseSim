@@ -1,7 +1,7 @@
 # Elijah Rosal's Project
 
 ## Overview
-A basic disease simulation that involves a user inputted infection and recovery rate for a user inputted grid size.
+A basic disease simulation that involves a user inputted infection and recovery rates for a user inputted grid size that is a perfect square.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -9,7 +9,7 @@ A basic disease simulation that involves a user inputted infection and recovery 
 - [Screencast Details](#ScreencastDetails)
 
 ## Introduction
-Provide an introduction to your project.
+This was a project my group in CS1400 made when we were first years at Cal Poly Pomona. 
 
 ## Links
 - [GitHub Repository](https://github.com/ElijahRosal/DiseaseSim)
