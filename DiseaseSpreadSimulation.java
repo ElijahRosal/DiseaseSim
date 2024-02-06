@@ -13,7 +13,13 @@ public class DiseaseSpreadSimulation {
 	static String directoryPath = "C:/";
 	static Random rand = new Random();
     public static void main(String[] args) {
-        
+        // inputs needed:
+        // Number of individuals (N) => (*N NEEDS TO BE PERFECT SQUARE)
+        // Number of time steps (T) => (program exits after completing steps)
+        // Infection rate (α) => You should accept a value 0 ≤ 𝛼 ≤ 1. Also note that
+        // the cumulative probability that and individual can get infected should not be
+        // more than 1
+        // Recover rate (β) => You should accept a value 0 ≤ β ≤ 1.
         Scanner sc = new Scanner(System.in);
 
         // taking in 'number of individuals' input
